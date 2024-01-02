@@ -1,0 +1,12 @@
+The datas in csv files must be loaded into database
+Each file must be loaded to 1 table
+
+Tasks:
+We have to open the file
+- define create scrips for tables -> create insert scrips
+- build the datamodels
+- load the data into tables
+    
+- final check
+- logging the work: python side
+                    database side
